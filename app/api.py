@@ -5,7 +5,7 @@ import shutil
 import os
 
 from app.file_processing.file_reading import read_pdf_text
-
+from app.text_translation.markdown_translate import markdown_translate
 
 app = FastAPI(title="Article Translator API", version="0.1.0")
 
@@ -32,9 +32,14 @@ async def process_file(file: UploadFile = File(...), lang: str = Form("en")):
 
         # call the existing OCR helper (returns list of lines)
         text: str = read_pdf_text(tmp_path)
-        return {"text": text}
+
+        translated_text = markdown_translate(text, "fr")
+        with open("output_translated.md", "w", encoding="utf-8") as f:
+            f.write(translated_text)
+        return {"text": translated_text}
 
     except Exception as exc:
+        print(f"Error processing file: {exc}")
         raise HTTPException(status_code=500, detail=str(exc))
 
     finally:

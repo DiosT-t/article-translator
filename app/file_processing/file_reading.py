@@ -1,5 +1,5 @@
 import pymupdf4llm
-from app.utils.markdown_utils import process_markodwn
+from app.utils.markdown_utils import process_markdown
 
 
 def read_pdf_text(file) -> str:
@@ -10,6 +10,5 @@ def read_pdf_text(file) -> str:
         # page_separators=True
         )
     with open("output.md", "w", encoding="utf-8") as f:
-        f.write(process_markodwn(markdown))
-    print(process_markodwn(markdown))
-    return process_markodwn(markdown)
+        f.write(process_markdown(markdown))
+    return process_markdown(markdown)

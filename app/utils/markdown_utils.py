@@ -2,7 +2,8 @@ from markdown import Markdown
 from io import StringIO
 import re
 
-def process_markodwn(md_text: str) -> str:
+def process_markdown(md_text: str) -> str:
+    md_text = re.sub(r'\n(?!\n)', ' ', md_text)
 
     return re.sub(r'\n(?!\n)', ' ', md_text)
 

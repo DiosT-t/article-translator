@@ -67,3 +67,163 @@ Pour assurer la cohérence interne, tous les participants ont été invités à 
 ### Résultats et discussion
 
 Un total de 311 bandes de données codées comme croyances (35,91 %) ont été identifiées dans l’ensemble de données qui comprenait un total de 866 bandes de données. D’autres bandes de données ont été codées comme comportements, résultats et déclencheurs (les principaux concepts sont présentés dans la Figure 1). Les bandes de données sur les croyances ont été analysées thématiquement et ont finalement formé cinq clusters de croyances. Ces clusters de croyances contenaient également des thèmes émergents représentatifs des clusters. Les cinq clusters de croyances représentent trois grandes catégories : les croyances tenues par les facilitateurs d’apprentissage concernant leurs rôles et leurs capacités ; les croyances sur le processus d’apprentissage ; et les croyances sur les apprenants. Le tableau 2 décrit les trois grandes catégories de résultats, les cinq clusters respectifs au sein des trois catégories, et les fréquences. La catégorie des croyances sur les rôles et les capacités avait le plus grand nombre de bandes de données (62 %), suivie des croyances sur le processus d’apprentissage (20 %) et des croyances sur les apprenants (18 %). Ces catégories seront discutées dans cet ordre.
+
+### Contexte
+
+Deux groupes de croyances ont été identifiés comme reflétant les convictions des managers quant à leurs rôles et à leurs compétences en tant que facilitateurs d’apprentissage. Un total de 193 bandes de données ont constitué cette catégorie. Parmi elles, 94 formaient le groupe de croyances sur les rôles, et 99 le groupe de croyances sur les capacités. Plusieurs thèmes ont émergé dans chacun des deux groupes. Le tableau 3 présente les groupes de croyances sur les rôles et les capacités, les thèmes émergents dans chaque groupe, ainsi que les fréquences.
+
+« Les croyances que les facilitateurs d’apprentissage entretiennent à propos de leurs rôles »
+
+Quatre thèmes spécifiques sont ressortis du groupe de croyances sur les rôles. Pour les managers étudiés, une différence considérable était articulée entre gestion et coaching, que les managers utilisaient de façon synonyme pour désigner la facilitation de l’apprentissage. Pour eux, gérer et coacher étaient distincts et séparés. Comme l’a reconnu le manager 7 (M7) :
+
+« Je pense que le mot « coach » apporte un sens différent de celui du mot « manager ». Quand quelqu’un dit que vous êtes le manager, c’est comme si vous étiez responsable de tout, alors que si vous êtes coach, vous êtes là surtout pour aider les gens à réussir. »
+
+En fait, un manager a déclaré : « Si vous n’enseignez pas (coachez) les personnes qui travaillent pour vous ou ne réalisez pas réellement des tâches à valeur ajoutée, alors je ne sais pas pourquoi on nous appelle encore managers, car il n’y a rien à gérer » (M10). Un autre manager a ajouté :
+
+« Je pense qu’il y a une différence entre manager et coach à cause de la nature de ce que vous faites et de la manière dont vous le faites. Parfois, être manager implique de prendre des décisions difficiles. Vous devez faire les choses de la manière difficile et elles ne sont pas toujours cohérentes avec le rôle de coach » (M3).
+
+Les managers ont approfondi cette distinction de rôle entre gestion et coaching en partageant leurs perspectives sur ce que signifiait la gestion pour eux, et ce que signifiait le coaching, représentant ainsi les deux autres thèmes de ce groupe de rôle. Gérer, pour ces managers, se percevait comme dire, juger et contrôler, tandis que coacher se percevait comme une manière d’autonomiser les apprenants, de les aider à comprendre et d’éliminer les obstacles qui entravaient leur capacité à exceller. Les extraits suivants illustrent ces thèmes respectifs. Un manager, M9, a reconnu : « Le mot manager me fait penser à un manager qui dit à quelqu’un de passer de A à Z et qui lui indique exactement comment y parvenir », tandis qu’un autre manager, M6, a déclaré :
+
+« Un coach est juste l’opposé de ce [manager]. Le coach est celui qui autonomise les membres de l’équipe, leur donne de la responsabilité et attend qu’ils prennent des décisions, qu’ils grandissent, se développent et deviennent meilleurs dans ce qu’ils font, et aient plus d’impact. Nous recrutons votre esprit, pas votre corps. Je ne me soucie pas si vous avez certains talents physiques, c’est ici (il pointe vers la tête) que cela nous rendra vraiment meilleurs que ce que nous sommes aujourd’hui. C’est plus d’interaction, c’est plus de donner et recevoir. C’est plus d’utiliser les compétences des uns et des autres et de tirer parti des compétences des uns et des autres. »
+
+Le thème final et le plus dominant de ce groupe de croyances sur le rôle était la perception des managers de leur rôle actuel en tant que facilitateurs d’apprentissage. Tous les 12 managers ont exprimé que leur rôle et leurs responsabilités liées consistaient à aider leurs employés à grandir et à se développer. Comme l’a dit un manager :
+
+« Mon travail consiste à enseigner cela aux autres. Mon travail consiste à m’assurer que tout le monde comprend que ces choses sont liées à ces choses, et que ces choses sont liées à l’entreprise, et si tout cela ne fonctionne pas correctement, alors nous n’obtenons pas les résultats dont nous avons besoin. Et si les gens ne sont pas capables de faire cela, il faut leur apprendre comment le faire. »
+
+Le tableau 4 résume les distinctions entre gestion et coaching que les managers ont articulées dans cette étude.
+
+En résumé, les managers de cette étude voyaient le concept d’être manager et le concept d’être facilitateur d’apprentissage, ou coach (tel que le terme était utilisé de façon synonyme), comme des rôles dichotomiques. Cependant, beaucoup de ces managers reconnaissaient qu’il existait certaines circonstances où ils devaient passer d’un rôle à l’autre, ou effectuer une fonction de basculement de rôle.
+
+La Figure 2 illustre le regroupement de croyances concernant les rôles sur un continuum. Ce continuum reflète la progression du manager vers le coach, qui semble constituer un changement fondamental requis des managers au sein des organisations aspirant à devenir des organisations apprenantes.
+
+Cette progression, consistant à reconnaître qu’il existe des distinctions de rôle entre être manager et être coach, semble constituer une étape initiale dans le déplacement des modèles mentaux des managers vers le concept de coach ou de facilitateur d’apprentissage.
+
+Le mouvement suivant sur ce continuum semble être la transition de rôle, où les managers continuent d’expérimenter le changement de rôle, mais deviennent de plus en plus à l’aise dans le rôle de coach.
+
+À ce stade, les managers expriment leur préférence pour occuper un rôle de coach plutôt que celui de manager.
+
+Le mouvement final sur ce continuum semble être l’adoption du rôle, où le manager s’identifie au rôle de coach.
+
+En comparaison avec le continuum, l’idée de changement de rôle semblait être plus répandue dans l’entreprise D et moins répandue dans les entreprises A et C.
+
+Dans l’entreprise B, cependant, le changement de rôle n’était pas répandu car il semblait y avoir une adoption cohérente du rôle de coach, exprimée à la fois par le comportement constant adopté par les managers et par la culture de l’organisation.
+
+Dans l’entreprise B, il semblait exister une identité associée à être coach déjà établie.
+
+Bien qu’il y ait eu une cohérence dans le comportement adopté par les managers dans les quatre organisations, il y avait une cohérence particulière dans le comportement et les croyances des managers au sein de cette organisation.
+
+Le coaching dans l’entreprise B s’était développé au-delà de l’exécution de comportements spécifiques, devenant une façon d’être qui semblait être ancrée dans la culture de l’organisation.
+
+Bien que les quatre entreprises aient été engagées à mettre en œuvre le concept d’organisation apprenante au sein de leurs organisations respectives, l’entreprise B a commencé ce parcours plusieurs années avant les autres.
+
+En passant du rôle de manager à celui de coach ou de facilitateur d’apprentissage, il apparaît que ce continuum peut être considéré comme un changement dans les croyances ou les modèles mentaux des managers qui guident leur comportement.
+
+Les managers de l’étude ont réalisé que les rôles de gestion et de coaching étaient distincts l’un de l’autre et qu’il existait des modèles mentaux accompagnant chaque rôle.
+
+Ces modèles mentaux influencent la manière dont les managers encadrent leurs situations et agissent.
+
+Nous utiliserons l’un des incidents critiques négatifs rapportés par les managers afin de saisir l’essence des tensions et des défis associés à ce processus de transition de rôle.
+
+Le manager M3 a décrit une situation où une équipe qui lui était subordonnée n’a pas pris l’initiative sur un projet critique.
+
+Lorsqu’il a rencontré l’équipe, il a déclaré : « En gros, j’ai dû dire en tant que manager, d’ici cette date, j’aimerais voir un plan et ce que nous allons faire. »
+
+Lorsque plus tard il a reçu des retours indiquant que l’équipe se sentait mal et quelque peu « battue », ces retours ont servi de catalyseur pour une série supplémentaire de réunions qui sont devenues le sujet d’un autre incident critique de M3.
+
+Lors de la réunion suivante, M3 a indiqué qu’il avait consciemment quitté le rôle de manager pour adopter celui de facilitateur d’apprentissage.
+
+Lorsqu’il a de nouveau rencontré son équipe de projet, il a déclaré : « C’était définitivement plus d’enseignement que de jugement et de gestion. À ce moment-là, j’essayais vraiment de les aider et ces réunions se sont beaucoup mieux déroulées parce que j’ai atténué mon approche et je me suis concentré davantage sur l’enseignement plutôt que sur le jugement. »
+
+M3 a indiqué que son ton et son approche globale avaient changé : au lieu d’agir de façon jugeante, il essayait désormais de poser différentes questions. Ainsi, lorsqu’il passait de « Pourquoi cela n’est pas encore fait ? » ou « Et alors ? » à « Si nous devions le faire, comment procéderions‑nous ? », « Quelles seraient nos options ? », « Pourrions‑nous l’aborder sous cet angle ? », « En utilisant cette analogie ? », c’est pour moi qu’il s’agit d’apprentissage.
+
+Dans les cas décrits ci‑dessus et parmi les autres incidents recueillis, les managers ont reconnu que leur comportement n’était pas cohérent avec leurs intentions et leurs croyances souhaitées quant au rôle de coach. Ils devaient donc changer de rôle ou reconfigurer leur posture et tenter consciemment de servir de facilitateurs d’apprentissage ; lorsqu’ils le faisaient, les comportements qu’ils mettaient en œuvre étaient beaucoup plus alignés avec ceux d’un coach. Ainsi, la prise de conscience d’une incongruence ou d’une différence entre le comportement managérial traditionnel et le rôle de coach incitait le manager à réexaminer son comportement et à essayer d’agir de façon plus conforme au modèle de coaching. Du point de vue du changement de croyance, cette incongruence représente un conflit entre les croyances managériales et celles de coaching. Gérer des croyances conflictuelles est une pratique courante en counseling (Dilts et al., 1991). Les incongruences, tensions et conflits persistent jusqu’à ce que les nouvelles croyances d’être coach remplacent ou s’intègrent aux anciennes. Lorsqu’une personne croit réellement en quelque chose, son comportement devient congruent avec ses croyances. Ces conflits et incongruences sont souvent décrits dans la littérature comme des théories proclamées qui diffèrent des théories en usage, ou « ne pas marcher sur vos mots ».
+
+L’articulation de ces thèmes au sein de ce cluster de croyances sur les rôles contredit certaines des publications existantes en gestion. La recherche managériale historique a souvent caractérisé le rôle du manager comme comprenant de nombreux comportements spécifiques, tels que le coaching, la formation et le mentorat (Kraut et al., 1989 ; Morse & Wagner, 1978 ; Mintzberg, 1973, 1990, 1994 ; Yukl, 1981, 1989a, b, 1994 ; Yukl & Van Fleet, 1992). Alors que ces études placent le coaching comme un sous‑ensemble du rôle de manager, les résultats de l’étude actuelle suggèrent que le coaching et la gestion sont deux rôles distincts. En revanche, sur la base des résultats de cette étude, le modèle mental collectif parmi tous les managers était que faciliter l’apprentissage, ou coacher, constituait leur rôle actuel. Cette croyance se manifestait par l’implémentation de 13 ensembles de comportements habilitants et facilitants qui formaient le rôle de facilitateur d’apprentissage ou de coach pour cette étude (Ellinger & Bostrom, 1999).
+
+De plus, tant les managers de niveau intermédiaire que ceux de niveau supérieur représentant divers domaines fonctionnels se considéraient comme ayant des rôles de coach, ce qui contredit également les études managériales antérieures montrant la prévalence de tels comportements lorsque les managers issus des fonctions des ressources humaines étaient inclus dans les échantillons managériaux. Enfin, le fait que les comportements que les managers de cette étude mettaient en œuvre ne soient pas influencés par le niveau fonctionnel ou hiérarchique contredit certaines études antérieures.
+
+Ainsi, cette recherche suggère que des révisions sont nécessaires dans les cartes cognitives que nous utilisons pour décrire le rôle du manager dans les organisations apprenantes. Cependant, probablement la contribution la plus importante de cette recherche est la documentation du processus que les managers vivent pour devenir coachs ou facilitateurs d’apprentissage. Ce processus reflète un continuum concernant la prise de conscience des managers des distinctions entre être manager et être coach, ainsi qu’une prise de conscience que leurs modèles mentaux sur chaque rôle guident le comportement qu’ils mettent en œuvre. Les managers de l’étude semblent collectivement croire que leur rôle consiste à développer leurs employés et à les aider à apprendre ; cependant, pour ce faire, ils doivent passer d’une orientation managériale à une orientation de coaching.
+
+Le dernier cluster de croyances dans la catégorie 1 concerne les croyances des managers sur leurs capacités (voir Tableau 3). Ce cluster contient quatre thèmes qui reflètent les croyances des managers sur leurs compétences : je me soucie suffisamment pour les aider ; j’ai des compétences et des capacités de processus que je peux appliquer ; j’ai un réservoir d’expériences que je peux mettre à profit ; et établir la confiance et construire des relations est crucial.
+
+Le thème le plus répandu dans ce cluster concerne les croyances des managers sur les compétences et les capacités qu’ils possèdent. Plus précisément, en réfléchissant aux incidents qu’ils ont rapportés lorsqu’ils étaient engagés comme facilitateurs d’apprentissage, de nombreux managers ont indiqué qu’ils se sentaient dotés de compétences de communication et conceptuelles efficaces, ainsi que de la capacité à fournir différentes perspectives à leurs employés, et de confiance en eux-mêmes. Comme M9 l’a dit :
+
+« La seule capacité que j’ai, et je ne sais pas quel comportement correct évoquer à ce sujet, c’est d’avoir une vision large et une compréhension de ce qui se passe dans l’entreprise et d’essayer de le transmettre à une autre personne. »
+
+Un manager de développement de produit a déclaré :
+
+« Je pense avoir des compétences en relations humaines et pouvoir les aider [en] indiquant où ces choses pourraient se produire afin qu’ils ne trébuchent pas en cours de route, et puissent vraiment mettre en valeur leurs compétences techniques. »
+
+Un autre manager a indiqué :
+
+« Il faut avoir beaucoup de confiance en soi. Si vous n’avez pas confiance en vous et en vos capacités, vous ne vous sentirez probablement pas capable d’enseigner quoi que ce soit à quelqu’un. »
+
+M11 a également contribué :
+
+« Je pense aussi simplement, je ne veux pas utiliser le mot peur, mais vraiment ne pas avoir peur de poser des questions ou de chercher d’autres personnes, ce type de choses. Je ne l’ai jamais vu comme une faiblesse. J’ai toujours dit, et si vous partagez des connaissances, je pense que cela vient d’avoir un niveau de compétence ou de confiance que vous n’êtes pas menacé par le partage de connaissances. »
+
+Une autre croyance critique parmi les managers souligne l’importance de la confiance et des relations lorsqu’ils s’engagent dans le processus de facilitation de l’apprentissage avec leurs employés. La confiance et la notion que les managers doivent connaître leurs employés pour être en position de les aider en tant que facilitateur d’apprentissage sont illustrées par les citations suivantes. Pour M1, « toute cette discussion implique la confiance — que nous avons les meilleurs intérêts des gens à cœur et que nous n’utiliserons pas ces informations contre eux. » M4 a utilisé la métaphore suivante pour décrire l’importance de connaître les employés :
+
+« C’est juste comme essayer d’ouvrir la porte qui est là-bas. Vous ouvrez un coffre-fort. Et vous devez les regarder, lire la personne, vous devez les connaître à l’avance, vous devez les lire pour savoir vers quelle direction tourner ce levier pour les faire répondre. »
+
+De même, M5 a déclaré :
+
+« Vous devez savoir qui ils sont, d’où ils viennent. Vous ne pouvez pas les traiter comme un numéro. Vous devez savoir s’ils sont mariés, s’ils ont des enfants, s’ils ont un chien, s’ils aiment skier en hiver. Vous devez les connaître, sinon vous ne pourrez pas vraiment les aider professionnellement. »
+
+Les deux derniers thèmes de ce cluster concernent les croyances des managers sur l’importance de pouvoir appliquer leurs expériences à des situations d’apprentissage avec leurs employés, et l’importance de se soucier de leurs employés. Lorsque les managers relataient leurs incidents critiques, beaucoup parlaient de l’importance de la façon dont leurs propres expériences les avaient influencés, et comment ils les avaient appliquées à des situations d’apprentissage. De nombreux managers ont également partagé des exemples de la façon dont leurs propres managers avaient facilité leur apprentissage. Les managers ont vécu des interactions positives et parfois négatives avec leurs propres managers respectifs et ces expériences ont eu une influence considérable sur la façon dont ils abordaient la facilitation de l’apprentissage. Par exemple, M3 a déclaré :
+
+« Pour moi, les expériences que j’ai eues en tant qu’apprenant ont eu un impact incroyable sur ma tentative d’être enseignant, facilitateur, juste un impact incroyable, donc je ne sais pas comment cela se transfère dans votre étude, mais je pense que c’est énorme. »
+
+En termes de capacité à appliquer des expériences, M1 a dit :
+
+« Juste avoir traversé des situations auparavant, et reconnaître quand elles vont arriver que quelque chose de mauvais va finalement résulter de cela, mais la personne ne le sait pas parce que, c’est comme s’ils conduisaient un navire ou quelque chose comme ça, et ils ne voient pas le brouillard, et j’ai la chance de m’asseoir et de voir le navire, le brouillard, et la montagne juste au-delà. Donc c’est juste avoir une responsabilité qui vient d’avoir plus d’information ou de connaissance pour transmettre cela. »
+
+Un autre manager a déclaré :
+
+« Je m’utilise comme une personne d’échange ou un garçon de fouet si vous voulez dire, lorsque des situations surviennent, j’essaie de décrire des situations que j’ai vécues qui peuvent être similaires à celle que j’essaie de coacher, décrire comment je me suis senti à ce sujet, comment je l’ai fait, comment j’ai échoué, comment j’ai réussi, afin qu’ils puissent peut-être voir ce qu’ils gèrent dans ce que j’ai traité. »
+
+De nombreux managers ont également estimé qu’une attitude sincère, honnête et bienveillante et une volonté d’aider leurs employés étaient essentielles pour faciliter l’apprentissage, et beaucoup d’entre eux pensaient que cette qualité personnelle de soin était innée, et que tous les managers ne choisissaient pas de se soucier des autres. M12 a reconnu :
+
+« Je me soucie honnêtement, sincèrement des gens et des personnes avec lesquelles je travaille en particulier, et vous savez, vous pouvez être le plus gros idiot du monde, mais si vous vous souciez vraiment des gens, les gens le savent, ils peuvent le sentir et donc je pense que cela m’a aidé. »
+
+Le dernier cluster de croyances dans la catégorie 1 concerne les croyances des managers sur leurs capacités (voir Tableau 3). Ce cluster contient quatre thèmes qui reflètent les croyances des managers sur leurs compétences : je me soucie suffisamment pour les aider ; j’ai des compétences et des capacités de processus que je peux appliquer ; j’ai un réservoir d’expériences que je peux mettre à profit ; et établir la confiance et construire des relations est crucial.
+
+Le thème le plus répandu dans ce cluster concerne les croyances des managers sur les compétences et les capacités qu’ils possèdent. Plus précisément, en réfléchissant aux incidents qu’ils ont rapportés lorsqu’ils étaient engagés comme facilitateurs d’apprentissage, de nombreux managers ont indiqué qu’ils se sentaient dotés de compétences de communication et conceptuelles efficaces, ainsi que de la capacité à fournir différentes perspectives à leurs employés, et de confiance en eux-mêmes. Comme M9 l’a dit :
+
+« La seule capacité que j’ai, et je ne sais pas quel comportement correct évoquer à ce sujet, c’est d’avoir une vision large et une compréhension de ce qui se passe dans l’entreprise et d’essayer de le transmettre à une autre personne. »
+
+Un manager de développement de produit a déclaré :
+
+« Je pense avoir des compétences en relations humaines et pouvoir les aider [en] indiquant où ces choses pourraient se produire afin qu’ils ne trébuchent pas en cours de route, et puissent vraiment mettre en valeur leurs compétences techniques. »
+
+Un autre manager a indiqué :
+
+« Il faut avoir beaucoup de confiance en soi. Si vous n’avez pas confiance en vous et en vos capacités, vous ne vous sentirez probablement pas capable d’enseigner quoi que ce soit à quelqu’un. »
+
+M11 a également contribué :
+
+« Je pense aussi simplement, je ne veux pas utiliser le mot peur, mais vraiment ne pas avoir peur de poser des questions ou de chercher d’autres personnes, ce type de choses. Je ne l’ai jamais vu comme une faiblesse. J’ai toujours dit, et si vous partagez des connaissances, je pense que cela vient d’avoir un niveau de compétence ou de confiance que vous n’êtes pas menacé par le partage de connaissances. »
+
+Une autre croyance critique parmi les managers souligne l’importance de la confiance et des relations lorsqu’ils s’engagent dans le processus de facilitation de l’apprentissage avec leurs employés. La confiance et la notion que les managers doivent connaître leurs employés pour être en position de les aider en tant que facilitateur d’apprentissage sont illustrées par les citations suivantes. Pour M1, « toute cette discussion implique la confiance — que nous avons les meilleurs intérêts des gens à cœur et que nous n’utiliserons pas ces informations contre eux. » M4 a utilisé la métaphore suivante pour décrire l’importance de connaître les employés :
+
+« C’est juste comme essayer d’ouvrir la porte qui est là-bas. Vous ouvrez un coffre-fort. Et vous devez les regarder, lire la personne, vous devez les connaître à l’avance, vous devez les lire pour savoir vers quelle direction tourner ce levier pour les faire répondre. »
+
+De même, M5 a déclaré :
+
+« Vous devez savoir qui ils sont, d’où ils viennent. Vous ne pouvez pas les traiter comme un numéro. Vous devez savoir s’ils sont mariés, s’ils ont des enfants, s’ils ont un chien, s’ils aiment skier en hiver. Vous devez les connaître, sinon vous ne pourrez pas vraiment les aider professionnellement. »
+
+Les deux derniers thèmes de ce cluster concernent les croyances des managers sur l’importance de pouvoir appliquer leurs expériences à des situations d’apprentissage avec leurs employés, et l’importance de se soucier de leurs employés. Lorsque les managers relataient leurs incidents critiques, beaucoup parlaient de l’importance de la façon dont leurs propres expériences les avaient influencés, et comment ils les avaient appliquées à des situations d’apprentissage. De nombreux managers ont également partagé des exemples de la façon dont leurs propres managers avaient facilité leur apprentissage. Les managers ont vécu des interactions positives et parfois négatives avec leurs propres managers respectifs et ces expériences ont eu une influence considérable sur la façon dont ils abordaient la facilitation de l’apprentissage. Par exemple, M3 a déclaré :
+
+« Pour moi, les expériences que j’ai eues en tant qu’apprenant ont eu un impact incroyable sur ma tentative d’être enseignant, facilitateur, juste un impact incroyable, donc je ne sais pas comment cela se transfère dans votre étude, mais je pense que c’est énorme. »
+
+En termes de capacité à appliquer des expériences, M1 a dit :
+
+« Juste avoir traversé des situations auparavant, et reconnaître quand elles vont arriver que quelque chose de mauvais va finalement résulter de cela, mais la personne ne le sait pas parce que, c’est comme s’ils conduisaient un navire ou quelque chose comme ça, et ils ne voient pas le brouillard, et j’ai la chance de m’asseoir et de voir le navire, le brouillard, et la montagne juste au-delà. Donc c’est juste avoir une responsabilité qui vient d’avoir plus d’information ou de connaissance pour transmettre cela. »
+
+Un autre manager a déclaré :
+
+« Je m’utilise comme une personne d’échange ou un garçon de fouet si vous voulez dire, lorsque des situations surviennent, j’essaie de décrire des situations que j’ai vécues qui peuvent être similaires à celle que j’essaie de coacher, décrire comment je me suis senti à ce sujet, comment je l’ai fait, comment j’ai échoué, comment j’ai réussi, afin qu’ils puissent peut-être voir ce qu’ils gèrent dans ce que j’ai traité. »
+
+De nombreux managers ont également estimé qu’une attitude sincère, honnête et bienveillante et une volonté d’aider leurs employés étaient essentielles pour faciliter l’apprentissage, et beaucoup d’entre eux pensaient que cette qualité personnelle de soin était innée, et que tous les managers ne choisissaient pas de se soucier des autres. M12 a reconnu :
+
+« Je me soucie honnêtement, sincèrement des gens et des personnes avec lesquelles je travaille en particulier, et vous savez, vous pouvez être le plus gros idiot du monde, mais si vous vous souciez vraiment des gens, les gens le savent, ils peuvent le sentir et donc je pense que cela m’a aidé. »
